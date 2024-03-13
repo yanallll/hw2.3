@@ -7,11 +7,11 @@ console.log (screensValue)
 const screenPrice = 21;
 console.log (screensValue)
 
-const percentage ='40'
-console.log (percentage)
+var Number ='40'
+console.log (Number)
 
-const fullPrice = '500$'
-console.log (fullPrice)
+var Number = '500$'
+console.log (Number)
 
 const responsive = 'булевое значение'
 console.log (responsive)
